@@ -9,7 +9,8 @@ enabling efficient management of electricity grids. By forecasting energy consum
 this project contributes to reducing costs, improving grid reliability, and promoting sustainability in
 energy management.
 
-Methodology:
+## Methodology:
+
 1.Data Collection: Gather historical energy consumption data from power grid systems.
 
 2.Data Preprocessing: Clean the data, handle missing values, and convert timestamps to a standard format,Outlier Detection and Treatment.
