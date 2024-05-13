@@ -1,5 +1,9 @@
 # ENERGY_CONSUMPTION_IN_POWER_GRID_SYSYEM
 
+link for to access my jupyter file
+
+https://drive.google.com/file/d/11A4_aQyvo7jLFj04Vy9SqIWT6aaCgQyU/view?usp=drive_link
+
 ## Problem Statement:
 This project aims to develop a time series forecasting model for predicting energy consumption
 patterns in smart grid systems. By leveraging historical data on energy usage, weather
