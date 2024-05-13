@@ -32,7 +32,8 @@ SVR (Support Vector Regression) is a supervised learning algorithm used for regr
 
 5.Model Evaluation: Evaluate model performance using validation techniques and metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 
-       Mean Absolute Error (MAE) measures the average absolute difference between predicted values and actual values, providing a straightforward indication of model accuracy. Mean Squared Error (MSE) calculates the average of the squared differences between predicted and actual values, giving higher weight to large errors and often used in optimization algorithms. Root Mean Squared Error (RMSE) is the square root of MSE, offering a measure in the same units as the original data, which makes it easier to interpret, and is particularly useful for comparing models with different units or scales.
+ Mean Absolute Error (MAE) measures the average absolute difference between predicted values and actual values, providing a straightforward indication of model accuracy. Mean Squared Error (MSE) calculates the average of the squared differences between predicted and actual values, giving higher weight to large errors and often used in optimization algorithms. Root Mean Squared Error (RMSE) is the square root of MSE, offering a measure in the same units as the original data, which makes it easier to interpret, and is particularly useful for comparing models with different units or scales.
+      
 
 6.Model Deployment: Predicting energy consumption for the test dataset and saving the model
 
