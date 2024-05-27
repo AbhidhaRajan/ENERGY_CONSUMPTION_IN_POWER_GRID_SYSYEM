@@ -1,8 +1,4 @@
-# ENERGY_CONSUMPTION_IN_POWER_GRID_SYSYEM
-
-link for to access my jupyter file
-
-https://drive.google.com/file/d/11A4_aQyvo7jLFj04Vy9SqIWT6aaCgQyU/view?usp=drive_link
+# ENERGY_CONSUMPTION_IN_POWER_GRID_SYSTEM
 
 ## Problem Statement:
 This project aims to develop a time series forecasting model for predicting energy consumption
