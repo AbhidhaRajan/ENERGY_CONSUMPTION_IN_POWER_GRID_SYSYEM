@@ -19,10 +19,10 @@ energy management.
 
 Encoding is the process of converting categorical variables into a numerical format suitable for machine learning algorithms, such as one-hot encoding or label encoding. Feature scaling/normalization is the technique of adjusting the range of numerical features to ensure they have similar scales, preventing certain features from dominating others and improving the performance of many machine learning algorithms.
 
-4.Model Development: Selecting best features for model development.Develop predictive models (e.g., time series forecasting models like ARIMA, machine learning algorithms like SVR to forecast future energy consumption.
+4.Model Development: Selecting best features for model development.Develop  machine learning algorithms like SVR to forecast future energy consumption.
 SelectKBest is a feature selection method in machine learning used to select the most important features from a dataset based on statistical tests like chi-squared. It scores each feature individually and selects the k highest-scoring features, which can help improve model performance and reduce dimensionality.
 
-ARIMA (AutoRegressive Integrated Moving Average) is a time series forecasting method that models the relationship between a dependent variable and its lagged values, integrating differencing to achieve stationarity.
+
 SVR (Support Vector Regression) is a supervised learning algorithm used for regression tasks, aiming to find the optimal hyperplane that maximizes the margin between data points and the regression line in a higher-dimensional space defined by kernel functions. RandomForest and GBR stand for Random Forest and Gradient Boosting Regression, respectively.
 
 
